@@ -15,6 +15,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flame: 1.4.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -36,7 +37,18 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/
+    - assets/controller/
+    - assets/fonts/
+    - assets/images/gui/
+    - assets/images/inventory/
+    - assets/images/launcher/
+    - assets/images/parallax/evening/
+    - assets/images/parallax/morning/
+    - assets/images/parallax/night/
+    - assets/images/sprite_sheets/blocks/
+    - assets/images/sprite_sheets/item/
+    - assets/images/sprite_sheets/mobs/
+    - assets/images/sprite_sheets/player/
 
 
   # To add custom fonts to your application, add a fonts section here,

@@ -1,5 +1,5 @@
-import 'package:minecraft2d/main_game.dart';
 import 'package:get/get.dart';
+import 'package:minecraft2d/main_game.dart';
 
 class GlobalGameReference {
   late MainGame gameReference;
